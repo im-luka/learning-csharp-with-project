@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31515.178
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AI_Hospital_Files", "AI_Hospital\AI_Hospital_Files.csproj", "{F8F583AD-0A96-483B-9700-F9E13240272E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F8F583AD-0A96-483B-9700-F9E13240272E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F8F583AD-0A96-483B-9700-F9E13240272E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F8F583AD-0A96-483B-9700-F9E13240272E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F8F583AD-0A96-483B-9700-F9E13240272E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EA411A35-A81C-4637-9480-F8BEF8D11559}
+	EndGlobalSection
+EndGlobal
