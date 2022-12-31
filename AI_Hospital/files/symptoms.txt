@@ -1,0 +1,21 @@
+﻿1
+Cough
+RARE
+2
+High temperature
+OFTEN
+3
+Nose leak
+MEDIUM
+4
+Headache
+OFTEN
+5
+Sore throat
+MEDIUM
+6
+Anemia
+MEDIUM
+7
+Loss of appetite
+OFTEN
